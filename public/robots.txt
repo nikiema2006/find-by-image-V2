@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stellular-crostata-e64a55.netlify.app/sitemap.xml
